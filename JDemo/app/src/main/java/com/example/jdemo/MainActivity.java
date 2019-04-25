@@ -1,6 +1,8 @@
-package com.example.myandroidappjenkins;
+package com.example.jdemo;
 
-
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
